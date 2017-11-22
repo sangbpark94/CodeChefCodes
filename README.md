@@ -8,7 +8,7 @@ for each difficulty.
 
 Problems Solved:
 
-Beginner:   1
+Beginner:   2
 Easy:       0
 Medium:     0
 Hard:       0
